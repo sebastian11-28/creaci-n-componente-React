@@ -1,0 +1,25 @@
+
+
+.contador {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.contador h2 {
+    color: #333;
+}
+
+.contador button {
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.contador button:hover {
+    background-color: #0056b3;
+}
